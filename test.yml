@@ -1,0 +1,7 @@
+- targets:
+    - http://ndc-ebook.rakuten.co.jp/healthcheck.html
+  labels:
+    severity: critical
+    role: vip
+    app: ebook-front
+    domain: ndc-ebook.rakuten.co.jp
